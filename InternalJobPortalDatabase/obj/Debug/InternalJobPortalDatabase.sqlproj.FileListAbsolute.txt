@@ -1,0 +1,10 @@
+C:\Users\Syed Ahmed\source\repos\InternalJobPortalDatabase\bin\Debug\InternalJobPortalDatabase.dacpac
+C:\Users\Syed Ahmed\source\repos\InternalJobPortalDatabase\bin\Debug\InternalJobPortalDatabase.dll
+C:\Users\Syed Ahmed\source\repos\InternalJobPortalDatabase\bin\Debug\InternalJobPortalDatabase.pdb
+C:\Users\Syed Ahmed\source\repos\InternalJobPortalDatabase\obj\Debug\InternalJobPortalDatabase.sqlprojAssemblyReference.cache
+C:\Users\Syed Ahmed\source\repos\InternalJobPortalDatabase\obj\Debug\Model.xml
+C:\Users\Syed Ahmed\source\repos\InternalJobPortalDatabase\obj\Debug\refactor.xml
+C:\Users\Syed Ahmed\source\repos\InternalJobPortalDatabase\obj\Debug\postdeploy.sql
+C:\Users\Syed Ahmed\source\repos\InternalJobPortalDatabase\obj\Debug\predeploy.sql
+C:\Users\Syed Ahmed\source\repos\InternalJobPortalDatabase\obj\Debug\InternalJobPortalDatabase.dll
+C:\Users\Syed Ahmed\source\repos\InternalJobPortalDatabase\obj\Debug\InternalJobPortalDatabase.pdb

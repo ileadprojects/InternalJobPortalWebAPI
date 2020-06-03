@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalJobPortalWebAPI", "InternalJobPortalWebAPI.csproj", "{FDED7885-6AD3-4FB8-A185-7F77C582A823}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalJobPortalWebAPI", ".\InternalJobPortalWebAPI\InternalJobPortalWebAPI.csproj", "{FDED7885-6AD3-4FB8-A185-7F77C582A823}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "InternalJobPortalDatabase", "..\InternalJobPortalDatabase\InternalJobPortalDatabase.sqlproj", "{765FDC66-111D-4174-A93F-445831993CA3}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "InternalJobPortalDatabase", ".\InternalJobPortalDatabase\InternalJobPortalDatabase.sqlproj", "{765FDC66-111D-4174-A93F-445831993CA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
